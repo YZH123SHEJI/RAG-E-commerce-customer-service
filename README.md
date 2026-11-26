@@ -1,6 +1,6 @@
 # mini-e-commerce 电商客服 RAG 项目
 
-仿照 CSDN《手搓一个 RAG 项目：mini-e-commerce 电商客服实战》实现，并补齐了原文缺失的 RAG 检索部分。
+
 
 ## 运行
 
